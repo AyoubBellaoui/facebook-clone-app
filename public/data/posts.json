@@ -1,0 +1,27 @@
+[
+        {
+            "userName":"Ayoub", 
+            "profilePicture":"img/avatar/1.jpg", 
+            "date":"2 hours ago", 
+            "description":"Travellimg to the world 🌟 , it's 2025 Enjoy my friend 🙋‍♂🌴", 
+            "image":"", 
+            "isOnline":"online"
+        },
+        {
+            "userName":"Abdelwadoud", 
+            "profilePicture":"img/avatar/1.jpg", 
+            "date":"2 hours ago", 
+            "description":"Hello my friend have a good day", 
+            "image":"", 
+            "isOnline":"offline"
+        },
+        {
+            "userName":"Haitam", 
+            "profilePicture":"img/avatar/3.jpg", 
+            "date":"3 hours ago", 
+            "description":"my brother are you fine I wish you the best", 
+            "image":"", 
+            "isOnline":"online"
+        }
+
+]
