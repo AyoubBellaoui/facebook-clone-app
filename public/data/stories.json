@@ -1,0 +1,38 @@
+[
+    {
+        "userName": "Ayoub bellaoui",
+        "profilePicture": "img/avatar/hero.png",
+        "storyImage": "",
+        "isCreate": true
+    },
+    {
+        "userName": "Samantha John",
+        "profilePicture": "img/avatar/2.jpg",
+        "storyImage": "img/stories/st-2.jpeg",
+        "isCreate": false
+    },
+    {
+        "userName": "Omar Yassir",
+        "profilePicture": "img/avatar/3.jpg",
+        "storyImage": "img/stories/st-3.jpeg",
+        "isCreate": false
+    },
+    {
+        "userName": "Amanda Cerny",
+        "profilePicture": "img/avatar/4.jpg",
+        "storyImage": "img/stories/st-4.jpg",
+        "isCreate": false
+    },
+    {
+        "userName": "Stacy Lopez",
+        "profilePicture": "img/avatar/5.jpg",
+        "storyImage": "img/stories/st-1.jpeg",
+        "isCreate": false
+    },
+    {
+        "userName": "Joshua Simon",
+        "profilePicture": "img/avatar/6.jpg",
+        "storyImage": "img/stories/st-1.jpeg",
+        "isCreate": false
+    }
+]
